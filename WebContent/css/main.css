@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    padding:0;
+}
+a{
+    text-decoration: none;
+    color: black;
+
+}
+#header{
+    width: 100%;
+    min-width: 1263px;
+    height: 100px;
+    display: block;
+    background-color: #808080;
+}
+#header .name{
+    font-size: 40px;
+    font-family: 微软雅黑;
+    color: white;
+    padding-left: 80px;
+    padding-top: 20px;
+}
+#header .user{
+    font-size: 15px;
+    font-family: 微软雅黑;
+    color: white;
+    text-align: right;
+    padding-right: 50px;
+    padding-bottom: 10px;
+}
+#header .exit{
+    font-size: 10px;
+    font-family: 微软雅黑;
+    color: white;
+    position: relative;
+    top:-25px;
+    text-align: right;
+    padding-right: 14px;
+}
+#menu{
+    position: absolute;
+    top:100px;
+    width: 200px;
+    height: 85%;
+    border-right: 1px solid #808080;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    background-color: #B3B3B3;
+}
+#menu .div{
+    padding-top: 30px;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: 微软雅黑;
+    color: black;
+}
+#iFrame .iFrame{
+    width: 1000px;
+    height: 600px;
+    position: absolute;
+    top:150px;
+    left:260px;
+}

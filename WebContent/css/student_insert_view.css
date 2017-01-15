@@ -1,0 +1,71 @@
+#form span{
+    font-family: 微软雅黑;
+    font-size: 20px;
+}
+#form input{
+    width:278px;
+    height:35px;
+    margin-bottom:20px;
+    outline:none;
+    padding:10px;
+    font-size:13px;
+    font-family: 微软雅黑;
+    color:black;
+    border-top:1px solid #312E3D;
+    border-left:1px solid #312E3D;
+    border-right:1px solid #312E3D;
+    border-bottom:1px solid #56536A;
+    border-radius:4px;
+    background-color:#ffffff;
+}
+#form .but{
+    width:300px;
+    min-height:20px;
+    display:block;
+    background-color:#4a77d4;
+    border:1px solid #3762bc;
+    color:#fff;
+    padding:9px 14px;
+    font-size:15px;
+    line-height:normal;
+    border-radius:5px;
+    margin:20px 0 0 180px;
+}
+#form .course_tittle{
+	position:absolute;
+	top:10px;
+	left:600px;
+}
+#form .course{
+	position:absolute;
+	top:-7px;
+	left:750px;
+}
+#form .checkbox{
+	width:20px;
+	position:relative;
+	top:14px;
+}
+#form .radio{
+	width:20px;
+	height:20px;
+	font-size:13px;
+    font-family: 微软雅黑;
+	margin:15px 0 30px 0;
+	position:relative;
+	top:5px;
+}
+#form .select{
+	width:100px;
+	height:30px;
+	font-size:13px;
+    font-family: 微软雅黑;
+    position:relative;
+    margin: 10px 0 30px 0;
+    top:-2px;
+}
+.error{
+	color:red;
+	font-size:13px;
+	font-family: 微软雅黑;
+}
